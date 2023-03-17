@@ -10,6 +10,8 @@ If you use ChildsPlayAccessibility in your work, please cite the conference pape
 
 **Citation info:** Roos Teeuwen and Achilleas Psyllidis. Easy as child’s play? Co-designing a network-based metric for children’s access to play space. In press. 2023.
 
+Associated input and output datasets are available at https://doi.org/10.4121/22293538.
+
 <p align="center">
     <img src="https://github.com/rflteeuwen/ChildsPlayAccessibility/blob/main/figures/results.png" width="50%">
 </p>
