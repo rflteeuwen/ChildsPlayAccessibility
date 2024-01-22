@@ -8,7 +8,7 @@ The child's play accessibility metric was co-designed with experts on the built 
 
 If you use ChildsPlayAccessibility in your work, please cite the conference paper.
 
-**Citation info:** Roos Teeuwen and Achilleas Psyllidis. Easy as child’s play? Co-designing a network-based metric for children’s access to play space. In press. 2023.
+**Citation info:** Roos Teeuwen and Achilleas Psyllidis. Easy as child’s play? Co-designing a network-based metric for children’s access to play space. n S. Sangiambut (Ed.), Proceedings of the 18th International Conference on Computational Urban Planning and Urban Management (CUPUM 2023) https://doi.org/10.17605/OSF.IO/6YR5V
 
 Associated input and output datasets are available at https://doi.org/10.4121/22293538.
 
