@@ -10,7 +10,7 @@ If you use ChildsPlayAccessibility in your work, please cite the conference pape
 
 **Citation info:** Roos Teeuwen and Achilleas Psyllidis. Easy as child’s play? Co-designing a network-based metric for children’s access to play space. n S. Sangiambut (Ed.), Proceedings of the 18th International Conference on Computational Urban Planning and Urban Management (CUPUM 2023) https://doi.org/10.17605/OSF.IO/6YR5V
 
-Associated input and output datasets are available at https://doi.org/10.4121/22293538.
+**Data:** Associated input and output datasets are available at [https://doi.org/10.4121/22293538](https://doi.org/10.4121/22293538).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
